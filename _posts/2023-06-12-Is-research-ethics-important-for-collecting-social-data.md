@@ -6,7 +6,6 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 gh-repo: booktrackerGirl/The-Curious-Researcher
-gh-badge: [star, fork, follow]
 tags: [research ethics, social data, online platforms]
 comments: true
 ---
