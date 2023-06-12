@@ -21,10 +21,12 @@ author: Aditi Dutta
 
 navbar-links:
   About Me: "aboutme"
+  License: "license"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://eprofile.exeter.ac.uk/aditidutta/"
+  
 
 ################
 # --- Logo --- #
