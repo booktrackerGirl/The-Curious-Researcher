@@ -10,6 +10,10 @@ tags: [research ethics, social data, online platforms]
 comments: true
 ---
 
+Research ethics are a set of principles that guides one's research design and practices. 
+
+In fact, "Research ethics are moral principles that guide researchers to conduct and report research without deception or intention to harm the participants of the study or members of the society as a whole, whether knowingly or unknowingly."
+
 ### What is social data?
 Social data is defined as the publicly available information which is collected from users’ public online activity on social media networks, consisting of information such as their location, language, and content shared. Examples of such data would include images, text, location, biographical data, as well as shared and reposted links. Information created by the platform users could also form a part of such data, such as blogtagging, online game playing, photo tagging and instant messenger.
 
